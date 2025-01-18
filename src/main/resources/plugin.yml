@@ -1,0 +1,6 @@
+name: ChatSessionBlocker
+version: 1.0-SNAPSHOT
+main: moe.caa.paper.chatsessionblocker.main.ChatSessionBlocker
+depend:
+  - ProtocolLib
+api-version: "1.20"
