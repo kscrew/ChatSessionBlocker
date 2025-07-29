@@ -24,4 +24,8 @@ public class ChatSessionBlocker extends JavaPlugin {
                 }
         );
     }
+
+    /**
+     * Use PlayerKickEvent. INVALID_SIGNATURE Cause.INVALID_PUBLIC_KEY_SIGNATURE
+     */
 }
